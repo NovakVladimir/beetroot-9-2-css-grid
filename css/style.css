@@ -11,6 +11,8 @@ section {
 
 div {
     background-color: white;
+    display: grid;
+    align-items: stretch;
 }
 
 div:hover {
